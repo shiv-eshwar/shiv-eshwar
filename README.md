@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&multiline=false&width=720&lines=AI+Engineer+%E2%9A%A1+Building+Production+Multi-Agent+Systems;LangGraph+%7C+LangChain+%7C+CrewAI+%7C+Pathway+%7C+RAG+%7C+MCP;Top-50+%E2%80%94+Lyzr+Agentathon+2026;2%C3%97+National+AI+Hackathon+Winner+%E2%80%94+NIT+Delhi+%2B+IIT+Hyderabad;YC+Startup+School+2026+%E2%80%94+Top+6.6%25;Currently+building+the+next+decade+of+agentic+infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&multiline=false&width=720&lines=AI+Engineer+%E2%9A%A1+Building+Production+Multi-Agent+Systems; LangGraph+%7C+LangChain+%7C+CrewAI+%7C+Pathway+%7C+RAG+%7C+MCP;Top-10+%E2%80%94+Lyzr+Agentathon+2026;2%C3%97+National+AI+Hackathon+Winner+%E2%80%94+NIT+Delhi+%2B+IIT+Hyderabad;YC+Startup+School+2026+%E2%80%94+Top+6.6%25;Currently+building+the+next+decade+of+agentic+infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ role:        AI Engineer Intern @ KrtrimaIQ Cognitive Solutions
 education:   B.Tech CS @ Amrita Vishwa Vidyapeetham, Bengaluru (2023 — 2027)
 focus:       Production Multi-Agent Systems · RAG · Responsible AI · Agent Orchestration
 shipping:    Vijanta — multi-agent e-learning platform · 2,000+ users · 35% LLM cost cut
-recent:      GrowthSignal — Top-50 Lyzr Agentathon 2026 · 5-agent managerial flow
+recent:      GrowthSignal — Top-10 Lyzr Agentathon 2026 · 5-agent managerial flow
 researching: Hallucination control · MCP · Autonomy budgets · Organizational General Intelligence
 ```
 
