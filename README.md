@@ -37,7 +37,7 @@ recent:      GrowthSignal — Top-50 Lyzr Agentathon 2026 · 5-agent managerial 
 researching: Hallucination control · MCP · Autonomy budgets · Organizational General Intelligence
 ```
 
-- 🚀 **Top-50 — Lyzr Agentathon 2026** for **GrowthSignal** — a 5-agent intelligence platform built on Lyzr Architect (Signal Scout → Researcher → Drafter → Verifier → Publisher).
+- 🚀 **Top-10 — Lyzr Agentathon 2026** for **GrowthSignal** — a 5-agent intelligence platform built on Lyzr Architect (Signal Scout → Researcher → Drafter → Verifier → Publisher).
 - 🏆 **2× National AI Hackathon Winner** — 2nd Place at **CodeSlayer 2K25 (NIT Delhi)** for a streaming-RAG financial AI; 1st Place at the **LLM & RAG Hackathon (IIT Hyderabad)**.
 - 🎓 **YC Startup School 2026** — Selected among **2,000 from 30,000+ global applicants (Top 6.6%)**.
 - 📚 **Published Researcher** — 2 papers in AI/ML and distributed systems (2024 — 2025).
